@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OurNDPSongs</string>
+    <string name="tvSong">Song Title</string>
+    <string name="etTitle">Enter song title here</string>
+    <string name="tvSingers">Singers</string>
+    <string name="etSinger">Enter singers\' name here</string>
+    <string name="tvYear">Year</string>
+    <string name="etYear">Enter year of release here</string>
+    <string name="tvStar">Star</string>
+    <string name="btnInsert">insert</string>
+    <string name="btnShow">show list</string>
+    <string name="btnShowStar">show all songs with 5 stars</string>
+    <string name="btnUpdate">update</string>
+    <string name="btnDel">delete</string>
+    <string name="btnCancel">cancel</string>
+    <string name="tvID">ID</string>
+    <string-array name="spinnerItems">
+        <item>1998</item>
+        <item>2002</item>
+        <item>2015</item>
+    </string-array>
+</resources>
